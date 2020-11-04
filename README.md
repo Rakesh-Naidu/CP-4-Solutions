@@ -2,7 +2,7 @@
 
 This Repository contains solutions of starred problems of CP-4.
 
-[Problems Link](https://cpbook.net/methodstosolve?oj=both&topic=ch1&quality=starred)
+[Questions](https://cpbook.net/methodstosolve?oj=both&topic=ch1&quality=starred)
 
 ## My Profiles 📊
 
