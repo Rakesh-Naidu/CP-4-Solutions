@@ -1,6 +1,7 @@
 ## CP-4-Solutions 🔑
 
-This Repository contains solutions of starred problems of CP-4.<br/>
+This Repository contains solutions of starred problems of CP-4.
+
 [All Starred Questions of CP-4](https://cpbook.net/methodstosolve?oj=both&topic=all&quality=starred)
 
 ## My Profiles 📊
